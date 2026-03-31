@@ -23,27 +23,6 @@ The dataset contains information about external debt across multiple countries, 
 
 ---
 
-## ⚠️ Data Validation & Assumptions
-
-Before performing the analysis, I evaluated the reliability and limitations of the dataset.
-
-### 🔍 Source Validation
-The dataset is based on World Bank debt indicators, which are widely recognized as reliable sources for global economic data.
-
-### 🔍 Plausibility Check
-The results align with real-world expectations:
-- Large economies (e.g., China) appear with higher debt levels  
-- Smaller countries show lower repayment values  
-
-This increases confidence in the dataset's consistency.
-
-### ⚠️ Limitations
-- The dataset does not include a time variable, which prevents trend analysis  
-- It likely represents a snapshot of data from a specific period  
-- Additional context (e.g., GDP, population) is not available for deeper analysis  
-
----
-
 ## 🎯 Business Questions
 
 1. How many distinct countries are present in the dataset?  
