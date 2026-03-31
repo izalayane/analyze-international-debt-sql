@@ -1,4 +1,4 @@
-readme = """
+
 # 🌍 Analyze International Debt Statistics
 
 ## 📌 Project Overview
@@ -89,8 +89,6 @@ This may indicate:
 - Limited repayment activity  
 - Or fewer debt instruments  
 
-Further analysis would be required to confirm these hypotheses.
-
 ---
 
 ## 🧠 Analytical Approach
@@ -103,15 +101,6 @@ This project focused on going beyond query execution by:
 
 ---
 
-## 🚀 Opportunities for Further Analysis
-
-- Compare debt levels with GDP or population data  
-- Analyze debt distribution by region  
-- Evaluate different types of debt indicators  
-- Incorporate time-series data for trend analysis  
-
----
-
 ## 📎 Project Structure
 
 - SQL queries to answer key business questions  
@@ -121,7 +110,7 @@ This project focused on going beyond query execution by:
 
 ## 🔗 Connect with Me
 
-👉 [Add your LinkedIn profile here]
+👉 [www.linkedin.com/in/iza-soares]
 
 ---
 
