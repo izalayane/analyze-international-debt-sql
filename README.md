@@ -96,4 +96,3 @@ This project focused on going beyond query execution by:
 ## 💡 Final Thoughts
 
 This project demonstrates that effective data analysis is not only about writing queries, but also about understanding data limitations, validating sources, and translating numbers into insights.
-"""
